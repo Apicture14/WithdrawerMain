@@ -1,0 +1,32 @@
+Indentifier: =#>".8+=/8
+Version: 1
+Targets:
+- ProcessName: CHROME
+  WindowInfo:
+    Title: CHROME
+  ExecutionMethod: RequestClose
+- ProcessName: MICROSOFT EDGE
+  WindowInfo:
+    Title: EDGE
+  ExecutionMethod: RequestClose
+  Identifier: Edge
+- ProcessName: HIPSMAIN
+  WindowInfo:
+    Title: 火绒安全软件
+    ClassName: HLBRMainUI
+  ExecutionMethod: RequestClose
+  Identifier: Any
+- ProcessName: MSEDGE
+  WindowInfo:
+    Title: EDGE
+  ExecutionMethod: RequestClose
+  Identifier: Edge
+TimeSpans:
+- Finish: 235959
+DelaySpan:
+  Start: 3000
+  Finish: -1
+UseDaemon: true
+DaemonInfo:
+  Flag: Flag
+  FlagExt: .flg

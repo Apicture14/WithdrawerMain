@@ -1,0 +1,14 @@
+[18:23] <I> LOAD SUCCESS
+[18:23] <I> Config At Version 1 
+Targets 4 
+Proc:CHROME=>RequestClose
+Proc:MICROSOFT EDGE=>RequestClose
+Proc:HIPSMAIN=>RequestClose
+Proc:MSEDGE=>RequestClose
+Timespans:
+0->235959
+Delay vary 3000 -> -1
+[18:23] <I> Running in routine 0
+[18:23] <I> 2 Window(s) Found
+[18:23] <I> SK Executed 2820844:CancelEventArgs.Cancel 属性 (System.ComponentModel) | Microsoft Learn 和另外 3 个页面 - 个人 - Microsoft? Edge
+[18:23] <I> Loop1 Finished, 3000ms before next

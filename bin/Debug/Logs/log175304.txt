@@ -1,0 +1,92 @@
+[17:53] <I> Config At Version 1 
+Targets 4 
+Proc:CHROME=>RequestClose
+Proc:MICROSOFT EDGE=>RequestClose
+Proc:HIPSMAIN=>RequestClose
+Proc:MSEDGE=>RequestClose
+Timespans:
+0->235959
+Delay vary 3000 -> -1
+[17:53] <I> Config At Version 1 
+Targets 4 
+Proc:CHROME=>RequestClose
+Proc:MICROSOFT EDGE=>RequestClose
+Proc:HIPSMAIN=>RequestClose
+Proc:MSEDGE=>RequestClose
+Timespans:
+0->235959
+Delay vary 3000 -> -1
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop1 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop2 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop3 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop4 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop5 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop6 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop7 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop8 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop9 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop10 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop11 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop12 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop13 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop14 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop15 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop16 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop17 Finished, 3000ms before next
+[17:53] <I> Running in routine 0
+[17:53] <I> Loop18 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop19 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop20 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop21 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop22 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop23 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop24 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop25 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop26 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop27 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop28 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop29 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop30 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop31 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop32 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop33 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop34 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop35 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop36 Finished, 3000ms before next
+[17:54] <I> Running in routine 0
+[17:54] <I> Loop37 Finished, 3000ms before next

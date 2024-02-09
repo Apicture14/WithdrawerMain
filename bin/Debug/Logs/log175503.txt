@@ -1,0 +1,50 @@
+[17:55] <I> LOAD SUCCESS
+[17:55] <I> Config At Version 1 
+Targets 4 
+Proc:CHROME=>RequestClose
+Proc:MICROSOFT EDGE=>RequestClose
+Proc:HIPSMAIN=>RequestClose
+Proc:MSEDGE=>RequestClose
+Timespans:
+0->235959
+Delay vary 3000 -> -1
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop1 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop2 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop3 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop4 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop5 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop6 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop7 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop8 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop9 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop10 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop11 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop12 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop13 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop14 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop15 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop16 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop17 Finished, 3000ms before next
+[17:55] <I> Running in routine 0
+[17:55] <I> Loop18 Finished, 3000ms before next
+[17:56] <I> Running in routine 0
+[17:56] <I> Loop19 Finished, 3000ms before next
+[17:56] <I> Running in routine 0
+[17:56] <I> Loop20 Finished, 3000ms before next

@@ -1,0 +1,13 @@
+D:\cs\WithdrawerMain\bin\Release\WithdrawerMain.exe.config
+D:\cs\WithdrawerMain\bin\Release\WithdrawerMain.exe
+D:\cs\WithdrawerMain\bin\Release\WithdrawerMain.pdb
+D:\cs\WithdrawerMain\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\cs\WithdrawerMain\bin\Release\YamlDotNet.NetCore.dll
+D:\cs\WithdrawerMain\obj\Release\WithdrawerMain.csproj.AssemblyReference.cache
+D:\cs\WithdrawerMain\obj\Release\WithdrawerMain.Form1.resources
+D:\cs\WithdrawerMain\obj\Release\WithdrawerMain.Properties.Resources.resources
+D:\cs\WithdrawerMain\obj\Release\WithdrawerMain.csproj.GenerateResource.cache
+D:\cs\WithdrawerMain\obj\Release\WithdrawerMain.csproj.CoreCompileInputs.cache
+D:\cs\WithdrawerMain\obj\Release\WithdrawerMain.csproj.CopyComplete
+D:\cs\WithdrawerMain\obj\Release\WithdrawerMain.exe
+D:\cs\WithdrawerMain\obj\Release\WithdrawerMain.pdb

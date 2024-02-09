@@ -1,0 +1,67 @@
+[17:47] <I> Config At Version 1 
+Targets 4 
+Proc:CHROME=>KillProcess
+Proc:MICROSOFT EDGE=>RequestClose
+Proc:HIPSMAIN=>KillProcess
+Proc:MSEDGE=>RequestClose
+Timespans:
+0->235959
+Delay vary 3000 -> -1
+[17:47] <I> Config At Version 1 
+Targets 4 
+Proc:CHROME=>KillProcess
+Proc:MICROSOFT EDGE=>RequestClose
+Proc:HIPSMAIN=>KillProcess
+Proc:MSEDGE=>RequestClose
+Timespans:
+0->235959
+Delay vary 3000 -> -1
+[17:47] <I> Running in routine 0
+[17:47] <I> Loop1 Finished
+[17:47] <I> 2 Window(s) Found
+[17:47] <I> SK Executed 462344:C#获取当前程序所在路径的各种方法 - 薄心之心 - 博客园 和另外 7 个页面 - 个人 - Microsoft? Edge
+[17:47] <I> Loop1 Finished, 3000ms before next
+[17:47] <I> Running in routine 0
+[17:47] <I> Loop2 Finished
+[17:47] <I> Loop2 Finished
+[17:47] <I> Loop2 Finished, 3000ms before next
+[17:47] <I> Running in routine 0
+[17:47] <I> Loop3 Finished
+[17:47] <I> Loop3 Finished
+[17:47] <I> Loop3 Finished, 3000ms before next
+[17:47] <I> Running in routine 0
+[17:47] <I> Loop4 Finished
+[17:47] <I> Loop4 Finished
+[17:47] <I> Loop4 Finished, 3000ms before next
+[17:47] <I> Running in routine 0
+[17:47] <I> Loop5 Finished
+[17:47] <I> Loop5 Finished
+[17:47] <I> Loop5 Finished, 3000ms before next
+[17:48] <I> Running in routine 0
+[17:48] <I> Loop6 Finished
+[17:48] <I> Loop6 Finished
+[17:48] <I> Loop6 Finished, 3000ms before next
+[17:48] <I> Running in routine 0
+[17:48] <I> Loop7 Finished
+[17:48] <I> Loop7 Finished
+[17:48] <I> Loop7 Finished, 3000ms before next
+[17:48] <I> Running in routine 0
+[17:48] <I> Loop8 Finished
+[17:48] <I> Loop8 Finished
+[17:48] <I> Loop8 Finished, 3000ms before next
+[17:48] <I> Running in routine 0
+[17:48] <I> Loop9 Finished
+[17:48] <I> Loop9 Finished
+[17:48] <I> Loop9 Finished, 3000ms before next
+[17:48] <I> Running in routine 0
+[17:48] <I> Loop10 Finished
+[17:48] <I> Loop10 Finished
+[17:48] <I> Loop10 Finished, 3000ms before next
+[17:48] <I> Running in routine 0
+[17:48] <I> Loop11 Finished
+[17:48] <I> Loop11 Finished
+[17:48] <I> Loop11 Finished, 3000ms before next
+[17:48] <I> Running in routine 0
+[17:48] <I> Loop12 Finished
+[17:48] <I> Loop12 Finished
+[17:48] <I> Loop12 Finished, 3000ms before next
